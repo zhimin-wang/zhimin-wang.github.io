@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Multimodal interaction | Zhimin-Wang</title>
+    <link>https://Zhimin-Wang.github.io/tag/multimodal-interaction/</link>
+      <atom:link href="https://Zhimin-Wang.github.io/tag/multimodal-interaction/index.xml" rel="self" type="application/rss+xml" />
+    <description>Multimodal interaction</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 Aug 2021 13:56:00 +0000</lastBuildDate>
+    <image>
+      <url>https://Zhimin-Wang.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Multimodal interaction</title>
+      <link>https://Zhimin-Wang.github.io/tag/multimodal-interaction/</link>
+    </image>
+    
+    <item>
+      <title>Interaction With Gaze, Gesture, and Speech in a Flexibly Configurable Augmented Reality System</title>
+      <link>https://Zhimin-Wang.github.io/publication/thms_2021/</link>
+      <pubDate>Fri, 20 Aug 2021 13:56:00 +0000</pubDate>
+      <guid>https://Zhimin-Wang.github.io/publication/thms_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparing Single-modal and Multimodal Interaction in an Augmented Reality System</title>
+      <link>https://Zhimin-Wang.github.io/publication/ismar_2020/</link>
+      <pubDate>Sun, 23 Aug 2020 13:56:00 +0000</pubDate>
+      <guid>https://Zhimin-Wang.github.io/publication/ismar_2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
