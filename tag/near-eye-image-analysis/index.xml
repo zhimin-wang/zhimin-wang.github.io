@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Near-eye Image Analysis | Zhimin-Wang</title>
-    <link>https://Zhimin-Wang.github.io/tag/near-eye-image-analysis/</link>
-      <atom:link href="https://Zhimin-Wang.github.io/tag/near-eye-image-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <title>Near-eye Image Analysis | zhimin-wang</title>
+    <link>https://zhimin-wang.github.io/tag/near-eye-image-analysis/</link>
+      <atom:link href="https://zhimin-wang.github.io/tag/near-eye-image-analysis/index.xml" rel="self" type="application/rss+xml" />
     <description>Near-eye Image Analysis</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Oct 2021 14:07:22 +0000</lastBuildDate>
     <image>
-      <url>https://Zhimin-Wang.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://zhimin-wang.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Near-eye Image Analysis</title>
-      <link>https://Zhimin-Wang.github.io/tag/near-eye-image-analysis/</link>
+      <link>https://zhimin-wang.github.io/tag/near-eye-image-analysis/</link>
     </image>
     
     <item>
       <title>Edge-Guided Near-Eye Image Analysis for Head Mounted Displays</title>
-      <link>https://Zhimin-Wang.github.io/publication/ismar_2021/</link>
+      <link>https://zhimin-wang.github.io/publication/ismar_2021/</link>
       <pubDate>Fri, 01 Oct 2021 14:07:22 +0000</pubDate>
-      <guid>https://Zhimin-Wang.github.io/publication/ismar_2021/</guid>
+      <guid>https://zhimin-wang.github.io/publication/ismar_2021/</guid>
       <description></description>
     </item>
     
