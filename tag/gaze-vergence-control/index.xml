@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gaze Vergence Control | Zhimin Wang</title>
+    <link>https://zhimin-wang.github.io/tag/gaze-vergence-control/</link>
+      <atom:link href="https://zhimin-wang.github.io/tag/gaze-vergence-control/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gaze Vergence Control</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 04 Jul 2022 13:56:00 +0000</lastBuildDate>
+    <image>
+      <url>https://zhimin-wang.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Gaze Vergence Control</title>
+      <link>https://zhimin-wang.github.io/tag/gaze-vergence-control/</link>
+    </image>
+    
+    <item>
+      <title>Gaze-Vergence-Controlled See-Through Vision in Augmented Reality</title>
+      <link>https://zhimin-wang.github.io/publication/ismar_jounral_2022/</link>
+      <pubDate>Mon, 04 Jul 2022 13:56:00 +0000</pubDate>
+      <guid>https://zhimin-wang.github.io/publication/ismar_jounral_2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

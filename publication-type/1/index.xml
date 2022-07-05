@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>1 | Jimmy-Wang</title>
+    <title>1 | Zhimin Wang</title>
     <link>https://zhimin-wang.github.io/publication-type/1/</link>
       <atom:link href="https://zhimin-wang.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
@@ -25,14 +25,6 @@
       <link>https://zhimin-wang.github.io/publication/ismar_2021/</link>
       <pubDate>Fri, 01 Oct 2021 14:07:22 +0000</pubDate>
       <guid>https://zhimin-wang.github.io/publication/ismar_2021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Interaction With Gaze, Gesture, and Speech in a Flexibly Configurable Augmented Reality System</title>
-      <link>https://zhimin-wang.github.io/publication/thms_2021/</link>
-      <pubDate>Fri, 20 Aug 2021 13:56:00 +0000</pubDate>
-      <guid>https://zhimin-wang.github.io/publication/thms_2021/</guid>
       <description></description>
     </item>
     
