@@ -5,12 +5,20 @@
     <link>https://zhimin-wang.github.io/publication/</link>
       <atom:link href="https://zhimin-wang.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 04 Jul 2022 13:56:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 27 Aug 2022 11:20:00 +0000</lastBuildDate>
     <image>
       <url>https://zhimin-wang.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://zhimin-wang.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Exploring 3D Interaction with Gaze Guidance in Augmented Reality</title>
+      <link>https://zhimin-wang.github.io/publication/ieeevr_2023/</link>
+      <pubDate>Sat, 27 Aug 2022 11:20:00 +0000</pubDate>
+      <guid>https://zhimin-wang.github.io/publication/ieeevr_2023/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Gaze-Vergence-Controlled See-Through Vision in Augmented Reality</title>
