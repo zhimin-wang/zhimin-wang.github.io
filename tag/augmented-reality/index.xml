@@ -5,7 +5,7 @@
     <link>https://zhimin-wang.github.io/tag/augmented-reality/</link>
       <atom:link href="https://zhimin-wang.github.io/tag/augmented-reality/index.xml" rel="self" type="application/rss+xml" />
     <description>Augmented Reality</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 27 Aug 2022 11:20:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 27 May 2023 11:20:00 +0000</lastBuildDate>
     <image>
       <url>https://zhimin-wang.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Augmented Reality</title>
@@ -15,16 +15,16 @@
     <item>
       <title>Exploring 3D Interaction with Gaze Guidance in Augmented Reality</title>
       <link>https://zhimin-wang.github.io/publication/ieeevr_2023/</link>
-      <pubDate>Sat, 27 Aug 2022 11:20:00 +0000</pubDate>
+      <pubDate>Sat, 27 May 2023 11:20:00 +0000</pubDate>
       <guid>https://zhimin-wang.github.io/publication/ieeevr_2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gaze-Vergence-Controlled See-Through Vision in Augmented Reality</title>
-      <link>https://zhimin-wang.github.io/publication/ismar_jounral_2022/</link>
+      <link>https://zhimin-wang.github.io/publication/ismar_journal_2022/</link>
       <pubDate>Mon, 04 Jul 2022 13:56:00 +0000</pubDate>
-      <guid>https://zhimin-wang.github.io/publication/ismar_jounral_2022/</guid>
+      <guid>https://zhimin-wang.github.io/publication/ismar_journal_2022/</guid>
       <description></description>
     </item>
     
@@ -33,6 +33,14 @@
       <link>https://zhimin-wang.github.io/publication/ismar_2021/</link>
       <pubDate>Fri, 01 Oct 2021 14:07:22 +0000</pubDate>
       <guid>https://zhimin-wang.github.io/publication/ismar_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Edge-Guided Near-Eye Image Analysis for Head Mounted Displays</title>
+      <link>https://zhimin-wang.github.io/publication/ismar_2023/</link>
+      <pubDate>Fri, 01 Oct 2021 14:07:22 +0000</pubDate>
+      <guid>https://zhimin-wang.github.io/publication/ismar_2023/</guid>
       <description></description>
     </item>
     

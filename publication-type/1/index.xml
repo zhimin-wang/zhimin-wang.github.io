@@ -5,12 +5,20 @@
     <link>https://zhimin-wang.github.io/publication-type/1/</link>
       <atom:link href="https://zhimin-wang.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 10 Apr 2022 13:56:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 27 May 2023 11:20:00 +0000</lastBuildDate>
     <image>
       <url>https://zhimin-wang.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>https://zhimin-wang.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>Exploring 3D Interaction with Gaze Guidance in Augmented Reality</title>
+      <link>https://zhimin-wang.github.io/publication/ieeevr_2023/</link>
+      <pubDate>Sat, 27 May 2023 11:20:00 +0000</pubDate>
+      <guid>https://zhimin-wang.github.io/publication/ieeevr_2023/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Control with Vergence Eye Movement in Augmented Reality See-Through Vision</title>
@@ -25,6 +33,14 @@
       <link>https://zhimin-wang.github.io/publication/ismar_2021/</link>
       <pubDate>Fri, 01 Oct 2021 14:07:22 +0000</pubDate>
       <guid>https://zhimin-wang.github.io/publication/ismar_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Edge-Guided Near-Eye Image Analysis for Head Mounted Displays</title>
+      <link>https://zhimin-wang.github.io/publication/ismar_2023/</link>
+      <pubDate>Fri, 01 Oct 2021 14:07:22 +0000</pubDate>
+      <guid>https://zhimin-wang.github.io/publication/ismar_2023/</guid>
       <description></description>
     </item>
     
