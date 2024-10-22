@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Intelligent application | Zhimin Wang</title>
+    <link>https://zhimin-wang.github.io/tag/intelligent-application/</link>
+      <atom:link href="https://zhimin-wang.github.io/tag/intelligent-application/index.xml" rel="self" type="application/rss+xml" />
+    <description>Intelligent application</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 21 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://zhimin-wang.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Intelligent application</title>
+      <link>https://zhimin-wang.github.io/tag/intelligent-application/</link>
+    </image>
+    
+    <item>
+      <title>Tasks Reflected in the Eyes Egocentric Gaze-Aware Visual Task Type Recognition in Virtual Reality</title>
+      <link>https://zhimin-wang.github.io/publication/ismar_journal_2024/</link>
+      <pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://zhimin-wang.github.io/publication/ismar_journal_2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
