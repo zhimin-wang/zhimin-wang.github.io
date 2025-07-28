@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Multimodal | Zhimin Wang</title>
+    <link>https://zhimin-wang.github.io/tag/multimodal/</link>
+      <atom:link href="https://zhimin-wang.github.io/tag/multimodal/index.xml" rel="self" type="application/rss+xml" />
+    <description>Multimodal</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 21 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://zhimin-wang.github.io/media/icon_huc40c9021763d5c4c2c4d18306132c309_8661_512x512_fill_lanczos_center_3.png</url>
+      <title>Multimodal</title>
+      <link>https://zhimin-wang.github.io/tag/multimodal/</link>
+    </image>
+    
+    <item>
+      <title>Towards spatial computing: recent advances in multimodal natural interaction for Extended Reality headsets</title>
+      <link>https://zhimin-wang.github.io/publication/fcs_2025/</link>
+      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://zhimin-wang.github.io/publication/fcs_2025/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,12 +5,36 @@
     <link>https://zhimin-wang.github.io/publication-type/2/</link>
       <atom:link href="https://zhimin-wang.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 21 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 28 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://zhimin-wang.github.io/media/icon_huc40c9021763d5c4c2c4d18306132c309_8661_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
       <link>https://zhimin-wang.github.io/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>Dominant-Eye-Aware Asymmetric Foveated Rendering for Virtual Reality</title>
+      <link>https://zhimin-wang.github.io/publication/ieee_tvcg_2025/</link>
+      <pubDate>Mon, 28 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://zhimin-wang.github.io/publication/ieee_tvcg_2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards spatial computing: recent advances in multimodal natural interaction for Extended Reality headsets</title>
+      <link>https://zhimin-wang.github.io/publication/fcs_2025/</link>
+      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://zhimin-wang.github.io/publication/fcs_2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GazeSwipe: Enhancing Mobile Touchscreen Reachability through Seamless Gaze and Finger-Swipe Integration</title>
+      <link>https://zhimin-wang.github.io/publication/acm_chi_2025/</link>
+      <pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://zhimin-wang.github.io/publication/acm_chi_2025/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Tasks Reflected in the Eyes Egocentric Gaze-Aware Visual Task Type Recognition in Virtual Reality</title>
