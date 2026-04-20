@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Large language models | Zhimin Wang</title>
+    <link>https://zhimin-wang.github.io/tag/large-language-models/</link>
+      <atom:link href="https://zhimin-wang.github.io/tag/large-language-models/index.xml" rel="self" type="application/rss+xml" />
+    <description>Large language models</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://zhimin-wang.github.io/media/icon_huc40c9021763d5c4c2c4d18306132c309_8661_512x512_fill_lanczos_center_3.png</url>
+      <title>Large language models</title>
+      <link>https://zhimin-wang.github.io/tag/large-language-models/</link>
+    </image>
+    
+    <item>
+      <title>SIAgent: Spatial Interaction Agent via LLM-powered Eye-Hand Motion Intent Understanding in VR</title>
+      <link>https://zhimin-wang.github.io/publication/ieee_tvcg_2026/</link>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://zhimin-wang.github.io/publication/ieee_tvcg_2026/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

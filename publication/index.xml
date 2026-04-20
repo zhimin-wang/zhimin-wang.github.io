@@ -5,12 +5,20 @@
     <link>https://zhimin-wang.github.io/publication/</link>
       <atom:link href="https://zhimin-wang.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 28 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://zhimin-wang.github.io/media/icon_huc40c9021763d5c4c2c4d18306132c309_8661_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://zhimin-wang.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>SIAgent: Spatial Interaction Agent via LLM-powered Eye-Hand Motion Intent Understanding in VR</title>
+      <link>https://zhimin-wang.github.io/publication/ieee_tvcg_2026/</link>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://zhimin-wang.github.io/publication/ieee_tvcg_2026/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Dominant-Eye-Aware Asymmetric Foveated Rendering for Virtual Reality</title>
