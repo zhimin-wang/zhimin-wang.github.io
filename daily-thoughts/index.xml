@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Zhimin Wang</title>
-    <link>https://zhimin-wang.github.io/</link>
-      <atom:link href="https://zhimin-wang.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Zhimin Wang</description>
+    <title>Daily-thoughts | Zhimin Wang</title>
+    <link>https://zhimin-wang.github.io/daily-thoughts/</link>
+      <atom:link href="https://zhimin-wang.github.io/daily-thoughts/index.xml" rel="self" type="application/rss+xml" />
+    <description>Daily-thoughts</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 04 Jul 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://zhimin-wang.github.io/media/icon_huc40c9021763d5c4c2c4d18306132c309_8661_512x512_fill_lanczos_center_3.png</url>
-      <title>Zhimin Wang</title>
-      <link>https://zhimin-wang.github.io/</link>
+      <title>Daily-thoughts</title>
+      <link>https://zhimin-wang.github.io/daily-thoughts/</link>
     </image>
     
     <item>
@@ -75,126 +75,6 @@
 &lt;/p&gt;
 &lt;p&gt;正文内容……&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>SIAgent: Spatial Interaction Agent via LLM-powered Eye-Hand Motion Intent Understanding in VR</title>
-      <link>https://zhimin-wang.github.io/publication/ieee_tvcg_2026/</link>
-      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://zhimin-wang.github.io/publication/ieee_tvcg_2026/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dominant-Eye-Aware Asymmetric Foveated Rendering for Virtual Reality</title>
-      <link>https://zhimin-wang.github.io/publication/ieee_tvcg_2025/</link>
-      <pubDate>Mon, 28 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://zhimin-wang.github.io/publication/ieee_tvcg_2025/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Towards spatial computing: recent advances in multimodal natural interaction for Extended Reality headsets</title>
-      <link>https://zhimin-wang.github.io/publication/fcs_2025/</link>
-      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://zhimin-wang.github.io/publication/fcs_2025/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>GazeSwipe: Enhancing Mobile Touchscreen Reachability through Seamless Gaze and Finger-Swipe Integration</title>
-      <link>https://zhimin-wang.github.io/publication/acm_chi_2025/</link>
-      <pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://zhimin-wang.github.io/publication/acm_chi_2025/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tasks Reflected in the Eyes Egocentric Gaze-Aware Visual Task Type Recognition in Virtual Reality</title>
-      <link>https://zhimin-wang.github.io/publication/ismar_journal_2024/</link>
-      <pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://zhimin-wang.github.io/publication/ismar_journal_2024/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>GazeRing: Enhancing Hand-Eye Coordination with Pressure Ring in Augmented Reality</title>
-      <link>https://zhimin-wang.github.io/publication/ismar_2024/</link>
-      <pubDate>Sat, 19 Oct 2024 14:07:22 +0000</pubDate>
-      <guid>https://zhimin-wang.github.io/publication/ismar_2024/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multimodal Interaction with Gaze and Pressure Ring in Mixed Reality</title>
-      <link>https://zhimin-wang.github.io/publication/ieeevr_2024/</link>
-      <pubDate>Sun, 19 May 2024 14:07:22 +0000</pubDate>
-      <guid>https://zhimin-wang.github.io/publication/ieeevr_2024/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DEAMP: Dominant-Eye-Aware Foveated Rendering with Multi-Parameter Optimization</title>
-      <link>https://zhimin-wang.github.io/publication/ismar_2023/</link>
-      <pubDate>Thu, 19 Oct 2023 14:07:22 +0000</pubDate>
-      <guid>https://zhimin-wang.github.io/publication/ismar_2023/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Exploring 3D Interaction with Gaze Guidance in Augmented Reality</title>
-      <link>https://zhimin-wang.github.io/publication/ieeevr_2023/</link>
-      <pubDate>Sat, 27 May 2023 11:20:00 +0000</pubDate>
-      <guid>https://zhimin-wang.github.io/publication/ieeevr_2023/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gaze-Vergence-Controlled See-Through Vision in Augmented Reality</title>
-      <link>https://zhimin-wang.github.io/publication/ismar_journal_2022/</link>
-      <pubDate>Mon, 04 Jul 2022 13:56:00 +0000</pubDate>
-      <guid>https://zhimin-wang.github.io/publication/ismar_journal_2022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Control with Vergence Eye Movement in Augmented Reality See-Through Vision</title>
-      <link>https://zhimin-wang.github.io/publication/ieeevr_2022/</link>
-      <pubDate>Sun, 10 Apr 2022 13:56:00 +0000</pubDate>
-      <guid>https://zhimin-wang.github.io/publication/ieeevr_2022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Edge-Guided Near-Eye Image Analysis for Head Mounted Displays</title>
-      <link>https://zhimin-wang.github.io/publication/ismar_2021/</link>
-      <pubDate>Fri, 01 Oct 2021 14:07:22 +0000</pubDate>
-      <guid>https://zhimin-wang.github.io/publication/ismar_2021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Interaction With Gaze, Gesture, and Speech in a Flexibly Configurable Augmented Reality System</title>
-      <link>https://zhimin-wang.github.io/publication/thms_2021/</link>
-      <pubDate>Fri, 20 Aug 2021 13:56:00 +0000</pubDate>
-      <guid>https://zhimin-wang.github.io/publication/thms_2021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Comparing Single-modal and Multimodal Interaction in an Augmented Reality System</title>
-      <link>https://zhimin-wang.github.io/publication/ismar_2020/</link>
-      <pubDate>Sun, 23 Aug 2020 13:56:00 +0000</pubDate>
-      <guid>https://zhimin-wang.github.io/publication/ismar_2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://zhimin-wang.github.io/admin/config.yml</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://zhimin-wang.github.io/admin/config.yml</guid>
-      <description></description>
     </item>
     
   </channel>
